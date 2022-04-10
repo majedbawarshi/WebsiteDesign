@@ -1,0 +1,160 @@
+        div {
+            display: block;
+        }
+        nav{
+            background-color: #ffff;
+        }
+        .carousel{
+            padding-top: 90px;
+        }
+        .start{
+            padding-top: 110px;
+        }
+        .cards-start{
+            padding-top: 0px;
+        }
+        #olmarimg{
+            padding-top: -150px !important;
+            margin-left: 200px !important;
+            padding-right: 250px;
+        }
+        .topbuttons{
+            padding-top: 30px;
+            margin-left:30px;
+            width:100%;
+        }
+        .homebutton{
+            padding-top: 30px ;
+        }
+
+        .navbar-default .navbar-nav > li > a:hover, 
+        .navbar-default .navbar-nav > li > a:focus {
+            color: red;
+            text-decoration: none;
+        }
+        .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+            color: #D30B16;
+        }
+        .site-footer{
+            background-color: #B4B9BD;
+            color: #fff;
+            margin-top: 50px;
+            padding-top: 55px;
+            
+        }
+        .bottom-footer{
+            border-top: 1px solid #b2b2b2;
+            margin-top: 30px;
+            padding-top: 30px;
+            color: #b2b2b2;
+            text-align:;
+        }
+        .Copyright{
+            padding-bottom: 40px;
+        }
+        .facebook-icons{
+            padding-top: 20px ;
+            font-size: 125%;
+        }
+        .langicon{
+            width: 25px;
+            height: 25px;
+        }
+        .top{
+            padding-top: 22.5px;
+        }
+        .button{ 
+            border:0px !important;
+            background: #F8F9FA;
+        }
+        .carousel-inner{
+            max-height: 800px !important;
+        }
+        .img-class{
+            height: 100%;
+            width: 100%;
+        }
+        .nav-elemnts-float{
+            float: left !important;
+        }
+        .cards-img{
+            width: 100%;
+            height: 300px;
+        }
+        .start-text{
+            padding-top: 200px;
+        }
+        .President-img{
+            float: right;
+        }
+        .President-txt{
+            float: right;
+            padding-right: 105px;
+        }
+        .middle-txt{
+            padding-top: 200px;
+            text-align:center;
+        }
+        .middle-txt-table{
+            text-align:center;
+        }
+        #map {
+        width: 100%;
+        height: 600px;
+        background-color: grey;
+        }
+        .cards-middle{
+            
+            margin: 0 auto; 
+            float: none; 
+            margin-bottom: 10px;
+        }
+        .cards-padding{
+            padding-top: 200px;
+        }
+        .solar-img{
+            width: 100%;
+            height: 100%;
+        }
+        .products-button{
+            margin-top: 105px;
+        }
+        .left-dropdown{
+            left:auto;
+            right:100%;
+            top:0;
+        }
+        .calculator{
+            height: 30px;
+            width: 30px;
+        }
+        .calculator-possition{
+            padding-top:20px;
+        }
+        @media (min-width: 667px) { 
+            .site-footer {
+            margin-top: 800px;
+            padding-top: 50px;
+            }
+            .navbar-toggler{
+            margin-left: 90% !important;
+            }
+            #olmarimg{
+            margin-left: 20%;
+            padding-right: 250px;
+            }
+            
+        }
+        @media (min-width: 1000px) { 
+            .site-footer {
+            margin-top: 392px;
+            padding-top: 50px;
+            }
+            .navbar-toggler{
+            margin-left: 90% !important;
+            }
+
+            
+
+        }
+        
